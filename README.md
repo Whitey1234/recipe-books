@@ -6,8 +6,6 @@ Share, search, and save your favorite recipes in one place.
 ## 🌐 Live Link
 🔗 [https://recipe-book-1fb64.web.app](https://recipe-book-1fb64.web.app) 
 
-## 🖼 Screenshot
-![Screenshot](https://your-screenshot-link.com/recipe-books.png)
 
 ## 🧑‍💻 Tech Stack
 - React
